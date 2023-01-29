@@ -1,4 +1,8 @@
 # Readme-md-colors
+# Form emojis
+[Emojipedia](https://emojipedia.org/)
+
+🟥🟩🟦
 
 # For images
 
