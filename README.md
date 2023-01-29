@@ -2,7 +2,7 @@
 # Form emojis
 [Emojipedia](https://emojipedia.org/)
 
-🟥🟩🟦
+🔥🟥🟩🟦🔥
 
 # For images
 
