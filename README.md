@@ -1,4 +1,4 @@
-# readme-md-colors
+# Readme-md-colors
 
 # For images
 
